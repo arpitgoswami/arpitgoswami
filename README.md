@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://cdn.midjourney.com/121ea707-fd54-443a-9869-ee1d3eb03210/grid_0.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Arpit Goswami</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
