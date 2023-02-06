@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.midjourney.com/f87f35d5-7c6e-46a6-8d57-e664dbdd9e45/grid_0.png)]
+![MasterHead](https://cdn.midjourney.com/f87f35d5-7c6e-46a6-8d57-e664dbdd9e45/grid_0.png)
 
 <h1 align="center">Hi 👋, I'm Arpit Goswami</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
