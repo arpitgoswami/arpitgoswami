@@ -10,7 +10,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpitgoswami&theme=onedark)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arpitgoswami&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arpitgoswami&theme=onedark&utcOffset=8)<br/>
-![](https://github-readme-stats.vercel.app/api?username=arpitgoswami&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arpitgoswami&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitgoswami&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
