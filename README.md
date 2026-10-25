@@ -1,3 +1,5 @@
+![Untitled](https://github.com/user-attachments/assets/05d9b331-b4aa-45c0-8d0a-c4597ecb73cb)
+
 <h1 align="center">Hi 👋, I'm Arpit Goswami</h1>
 <h3 align="center">M.Tech CSE Researcher | Full-Stack Developer | AI Enthusiast</h3>
 
