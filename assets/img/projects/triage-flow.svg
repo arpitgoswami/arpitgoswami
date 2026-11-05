@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-labelledby="title desc">
+  <title id="title">Healthcare triage reinforcement-learning environment</title>
+  <desc id="desc">Symptoms and vitals feed an agent that routes patients to urgent, standard, or low priority care.</desc>
+  <rect width="1200" height="800" fill="#18191b"/>
+  <text x="64" y="86" fill="#eff0f1" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="-1">Triage environment</text>
+  <text x="64" y="122" fill="#9c9ea3" font-family="Arial, Helvetica, sans-serif" font-size="20">OpenEnv · reinforcement learning · Meta PyTorch Hackathon</text>
+
+  <rect x="64" y="236" width="240" height="152" fill="#222427"/>
+  <text x="88" y="278" fill="#9c9ea3" font-family="Arial, Helvetica, sans-serif" font-size="16">INPUT</text>
+  <text x="88" y="314" fill="#eff0f1" font-family="Arial, Helvetica, sans-serif" font-size="24">Symptoms</text>
+  <text x="88" y="348" fill="#eff0f1" font-family="Arial, Helvetica, sans-serif" font-size="24">Vitals</text>
+
+  <rect x="472" y="252" width="256" height="120" fill="#ff4a1f"/>
+  <text x="600" y="300" fill="#18191b" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle">POLICY</text>
+  <text x="600" y="336" fill="#18191b" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="middle">Agent</text>
+
+  <rect x="896" y="180" width="240" height="96" fill="#222427"/>
+  <text x="920" y="220" fill="#ff4a1f" font-family="Arial, Helvetica, sans-serif" font-size="16">PRIORITY 1</text>
+  <text x="920" y="254" fill="#eff0f1" font-family="Arial, Helvetica, sans-serif" font-size="24">Urgent</text>
+
+  <rect x="896" y="352" width="240" height="96" fill="#222427"/>
+  <text x="920" y="392" fill="#9c9ea3" font-family="Arial, Helvetica, sans-serif" font-size="16">PRIORITY 2</text>
+  <text x="920" y="426" fill="#eff0f1" font-family="Arial, Helvetica, sans-serif" font-size="24">Standard</text>
+
+  <rect x="896" y="524" width="240" height="96" fill="#222427"/>
+  <text x="920" y="564" fill="#9c9ea3" font-family="Arial, Helvetica, sans-serif" font-size="16">PRIORITY 3</text>
+  <text x="920" y="598" fill="#eff0f1" font-family="Arial, Helvetica, sans-serif" font-size="24">Low</text>
+
+  <g fill="none" stroke="#9c9ea3" stroke-width="4">
+    <path d="M304 312 H472"/>
+    <path d="M728 312 H812 V228 H896"/>
+    <path d="M728 312 H896"/>
+    <path d="M728 312 H812 V572 H896"/>
+  </g>
+  <g fill="#ff4a1f">
+    <path d="M466 312 l-14 -9 v18 z"/>
+    <path d="M890 228 l-14 -9 v18 z"/>
+    <path d="M890 312 l-14 -9 v18 z"/>
+    <path d="M890 572 l-14 -9 v18 z"/>
+  </g>
+
+  <rect x="64" y="612" width="1072" height="4" fill="#2a2c30"/>
+  <text x="64" y="676" fill="#9c9ea3" font-family="Arial, Helvetica, sans-serif" font-size="18">State: patient record</text>
+  <text x="400" y="676" fill="#9c9ea3" font-family="Arial, Helvetica, sans-serif" font-size="18">Action: priority + department</text>
+  <text x="812" y="676" fill="#9c9ea3" font-family="Arial, Helvetica, sans-serif" font-size="18">Reward: correct routing</text>
+  <text x="64" y="740" fill="#eff0f1" font-family="Arial, Helvetica, sans-serif" font-size="20">Urgent · Standard · Low</text>
+</svg>
