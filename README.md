@@ -1,12 +1,16 @@
 ![Untitled](https://github.com/user-attachments/assets/05d9b331-b4aa-45c0-8d0a-c4597ecb73cb)
 
 <h1 align="center">Hi 👋, I'm Arpit Goswami</h1>
-<h3 align="center">M.Tech CSE Researcher | Full-Stack Developer | AI Enthusiast</h3>
+<h3 align="center">M.Tech CSE Researcher | Full-Stack Developer | Game Maker</h3>
 
 <p align="center">
   <a href="https://github.com/arpitgoswami">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=GoLang+Backend+Developer;AI+%26+Deep+Learning+Researcher;Building+Functional+Web+Apps;Working+Towards+Version+X" alt="Typing SVG" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arpitgoswami&theme=onedark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
   </a>
+</p>
+
+<p align="center">
+  <b>GoLang Backend</b> · <b>AI & Deep Learning Research</b> · <b>Functional Web Apps</b> · <b>Godot Games</b> · Building toward <i>Version X</i> by 2030
 </p>
 
 ---
@@ -27,6 +31,19 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| **Healthcare Triage** | RL environment for ER patient prioritisation (Meta PyTorch OpenEnv Hackathon) | Python, PyTorch, Gymnasium | [Code](https://github.com/arpitgoswami/healthcare-triage) |
+| **Verdane** | Browser arcade — plants vs zombies tower defense, 60 FPS | Godot 4.3 | [Play](https://arpitgoswami.github.io/verdane-game/) · [Code](https://github.com/arpitgoswami/verdane-game) |
+| **Roleplay** | Real-time character chat platform with persistent storylines | React, Node.js, WebSockets | [Play](https://arpitgoswami.github.io/roleplay-app/) · [Code](https://github.com/arpitgoswami/roleplay-app) |
+| **One Way Ticket** | Godot 4.3 first-person graveyard shooter with waves and bosses | Godot 4.3 | [Code](https://github.com/arpitgoswami/one-way-ticket-game) |
+| **Bundelkhand FM** | Live regional radio streams and on-demand audio | Web | [Play](https://arpitgoswami.github.io/bundelkhand-fm-app/) · [Code](https://github.com/arpitgoswami/bundelkhand-fm-app) |
+| **Weather** | City forecast app — current, hourly, daily | Web | [Play](https://arpitgoswami.github.io/weather-app/) · [Code](https://github.com/arpitgoswami/weather-app) |
 
 ---
 

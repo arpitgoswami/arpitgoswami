@@ -68,6 +68,17 @@ ul { margin: 0; padding: 0; list-style: none; }
 
 ::selection { background: var(--accent); color: var(--accent-ink); }
 
+/* Tailwind utilities (replacing cdn.tailwindcss.com runtime compile) */
+.antialiased { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.flex { display: flex; }
+.flex-col { flex-direction: column; }
+.flex-wrap { flex-wrap: wrap; }
+.items-center { align-items: center; }
+.justify-between { justify-content: space-between; }
+.grid { display: grid; }
+.hidden { display: none; }
+.overflow-x-clip { overflow-x: clip; }
+
 .sr-only {
   position: absolute;
   width: 1px; height: 1px;
@@ -370,6 +381,14 @@ ul { margin: 0; padding: 0; list-style: none; }
   margin-top: 16px;
   color: var(--muted);
   font-size: var(--step-small);
+}
+
+.work__all {
+  grid-column: 1 / -1;
+  margin-top: 16px;
+  width: -webkit-fit-content;
+  width: fit-content;
+  justify-self: start;
 }
 
 .work__list {
@@ -689,6 +708,13 @@ ul { margin: 0; padding: 0; list-style: none; }
   white-space: nowrap;
 }
 
+.stack__level {
+  color: var(--muted);
+  font-size: var(--step-small);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
 /* ---------- stats ---------- */
 
 .stats {
@@ -995,6 +1021,11 @@ ul { margin: 0; padding: 0; list-style: none; }
   .work__count {
     grid-column: 2;
     grid-row: 2;
+    margin-top: 0;
+  }
+  .work__all {
+    grid-column: 1 / -1;
+    grid-row: 3;
     margin-top: 0;
   }
 
